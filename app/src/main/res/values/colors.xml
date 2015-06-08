@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="project_zero_primary">#F08C35</color>
+  <color name="project_zero_highlight">#D93055</color>
+  <color name="project_zero_background">#FFDFEAF1</color>
+</resources>
